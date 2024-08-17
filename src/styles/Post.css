@@ -1,0 +1,40 @@
+#post {
+	width: 95%;
+	background-color: lightblue;
+	margin: 1rem;
+	border-radius: 1rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.6);
+	flex-direction: column;
+}
+
+#post img {
+	width: 90%;
+	height: 50%;
+	margin: 1rem;
+	margin-bottom: 0.2rem;
+	border-radius: 1rem;
+	border: 3px solid blue;
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.6);
+}
+
+#post span {
+	margin: 0;
+	margin-top: 1rem;
+}
+
+#post button {
+	margin: 0.21rem;
+	border-radius: 1rem;
+    font-weight: bold;
+    font-size: 1rem;
+	background-color: blue;
+	color: lightblue;
+}
+
+#post button:hover {
+	background-color: lightblue;
+	color: blue;
+}

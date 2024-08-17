@@ -1,0 +1,33 @@
+[
+	{"imglink": "./images/dog.webp",
+	 "caption": "My cute dog",
+	 "key": 1},
+
+	{"imglink": "./images/cat.jpg",
+	 "caption": "My cute cat",
+	 "key": 2},
+
+	{"imglink": "./images/parrot.jpg",
+	 "caption": "Your cute parrot",
+	 "key": 3},
+	 
+	{"imglink": "./images/lion.jpg",
+	 "caption": "A brave lion!",
+	 "key": 3},
+
+	{"imglink": "./images/rabbit.avif",
+	 "caption": "Rabbit or Turtle?",
+	 "key": 3},
+
+	{"imglink": "./images/tiger.jpg",
+	 "caption": "It's roaring time...",
+	 "key": 3},
+
+	{"imglink": "./images/rat.jpg",
+	 "caption": "Rat ran fast...",
+	 "key": 3},
+
+	{"imglink": "./images/squirrel.jpg",
+	 "caption": "Cute Eutamias",
+	 "key": 3}
+]
